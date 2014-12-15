@@ -1,0 +1,30 @@
+{
+  "name": "RxExpressJS",
+  "version": "0.0.1",
+  "description": "Fast, reactive designed, web framework for node.js. A lightweight replacement for ExpressJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtwebman/RxExpressJS.git"
+  },
+  "keywords": [
+    "Rx",
+    "Reactive",
+    "Framework",
+    "Web",
+    "Rest",
+    "API",
+    "Express",
+    "Restful",
+    "App"
+  ],
+  "author": "Jeff Turner <jtwebman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwebman/RxExpressJS/issues"
+  },
+  "homepage": "https://github.com/jtwebman/RxExpressJS",
+  "dependencies": {
+    "rx": "^2.3.22"
+  }
+}
